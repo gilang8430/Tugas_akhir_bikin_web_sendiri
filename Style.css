@@ -1,0 +1,11 @@
+.nav-item:active{
+  text-decoration: underline;
+}
+
+.nav-item:hover{
+  text-decoration: underline;
+}
+.help1{
+  font-style: italic;
+  font-family: sans-serif serif "the this roman";
+}
